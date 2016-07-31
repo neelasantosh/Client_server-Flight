@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Jar-URL: Client_Server.jar
+MIDlet-2: ClientMIDlet,,fi.server.ClientMIDlet
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: ServerMIDlet,,fi.server.ServerMIDlet
+MicroEdition-Profile: MIDP-2.1
+MIDlet-Name: Client_Server MIDlet Suite
